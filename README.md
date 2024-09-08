@@ -1,5 +1,4 @@
-```markdown
-# Weather App
+# Weather App in React
 
 This is a simple weather application built with React.js that fetches and displays weather data for a specified city using the WeatherAPI.com service.
 
@@ -12,7 +11,7 @@ This is a simple weather application built with React.js that fetches and displa
 
 ## Screenshots
 
-![Weather App Screenshot](path_to_screenshot)
+![Weather App Screenshot](./Images/weatherApp%20in%20React%20Screenshot.png)
 
 ## Installation
 
@@ -37,7 +36,7 @@ This is a simple weather application built with React.js that fetches and displa
 4. **Create a `.env` file** in the root directory and add your WeatherAPI.com key:
 
    ```bash
-   VITE_WEATHER_API_KEY=your_api_key_here
+   VITE_WEATHER_API_KEY='your_api_key_here'
    ```
 
 5. **Run the app:**
@@ -72,8 +71,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [WeatherAPI.com](https://www.weatherapi.com/) for the weather data API.
 - [React](https://reactjs.org/) for the powerful UI library.
 - [Tailwind CSS](https://tailwindcss.com/) for the beautiful and flexible design framework.
-
-```
 
 ### Additional Notes:
 - **API Key**: Replace `your_api_key_here` in the `.env` file section with your actual WeatherAPI.com key.
